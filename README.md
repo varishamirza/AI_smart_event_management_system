@@ -1,0 +1,1 @@
+# AI_smart_event_management_system
