@@ -1,0 +1,9 @@
+#.env contains secret API keys
+.env
+
+# Python virtual environments
+uvenv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
